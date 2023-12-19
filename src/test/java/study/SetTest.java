@@ -15,6 +15,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 @DisplayName("Set Collection에 대한 학습테스트")
 public class SetTest {
+
 	private Set<Integer> numbers;
 
 	@BeforeEach

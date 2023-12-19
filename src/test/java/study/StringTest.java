@@ -6,6 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class StringTest {
+
     @Test
     void replace() {
         String actual = "abc".replace("b", "d");
